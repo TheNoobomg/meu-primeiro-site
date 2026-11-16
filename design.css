@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: cyan;
+    font-size: 50px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    border: none;
+}
